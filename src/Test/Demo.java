@@ -11,6 +11,8 @@ public class Demo {
     static Scanner s = new Scanner(System.in);
 
     public static void main(String[] args) {
+
+
         int n = 0;
         int timeout = 10;
         do{
